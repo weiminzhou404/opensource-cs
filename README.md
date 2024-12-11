@@ -1,6 +1,6 @@
 # 基于vue3的电子商城项目
+基于vue3构建的电子商城项目，实现的基本的商城功能。
 
-This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
@@ -9,6 +9,9 @@ This template should help get you started developing with Vue 3 in Vite.
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+
+## 项目的启动步骤如下
 
 ## Project Setup
 
