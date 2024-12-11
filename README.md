@@ -1,4 +1,4 @@
-# vue-rabbit
+# 基于vue3的电子商城项目
 
 This template should help get you started developing with Vue 3 in Vite.
 
